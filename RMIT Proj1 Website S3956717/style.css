@@ -1,0 +1,45 @@
+/*coolors.co/738678-e1f2fe-3b0d11-6a3937-645e9d##*/
+html, body {
+  background: #738678;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+  color: #3B0D11;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #6A3937;
+}
+
+#Face {
+float: right;
+}
+
+#scribbles {
+  float:left;
+}
+
+/*handy trick this bit, thanks thomas.*/
+.clear {clear: both;}
+
+#container {
+	width: 90%;
+	max-width: 800px;
+	background: #E1F2FE;
+	margin: 30px auto;
+  padding: 30px;
+}
+
+#Testresult{
+  width: 90%;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+section {
+	border-top: 1px solid #645E9D;
+	padding: 20px 0 0;
+}
